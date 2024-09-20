@@ -1,4 +1,4 @@
-# Author: Khem @le
+# Author: @le
 # Title: SQL Server Backup Script
 # Script to perform full, diff and audit backup of SQL Server databases
 # This script can also send the backup details to a remote SQL Server database
